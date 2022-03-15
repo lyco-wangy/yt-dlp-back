@@ -1,5 +1,5 @@
-Flask==1.1.2
-pip==20.3.3
-yt-dlp==2021.10.10
-gunicorn==20.0.4
+Flask==2.0.3
+pip==22.0.4
+yt-dlp==2022.03.08.1
+gunicorn==20.1.0
 Flask-Cors==3.0.10
